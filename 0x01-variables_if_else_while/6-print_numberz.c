@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main: Entry point
+ * main- Entry point
  *
- * Description: Prints all single digits of base 10 and a new line
+ * Description: Prints all digits of base 10
  *
  * Return: 0 (Success)
  */
@@ -11,7 +11,7 @@ int main(void)
 {
 	int i;
 
-	for (i = 24; i <34; i++)
+	for (i = 24; i < 34; i++)
 	{
 		putchar(i);
 	}
