@@ -5,7 +5,7 @@
 *
 * Print out '\"Programming is like building a multilingual puzzle'
 *
-* Return:By default returns zero if no errors otherwise returns non-zero value
+* Return: Always 0 (Success)
 */
 int main(void)
 {
