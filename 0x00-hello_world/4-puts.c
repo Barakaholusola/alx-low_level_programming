@@ -5,7 +5,7 @@
 *
 * Print out '\"Programming is like building a multilingual puzzle'
 *
-* Return: Always 0 (Success)
+* Return: 1 (Error)
 */
 int main(void)
 {
