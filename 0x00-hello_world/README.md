@@ -1,2 +1,2 @@
 ##0x00-hello_world
-# This folder carries out low level programming
+# This directory contains scripts that carry out low level programming
